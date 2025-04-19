@@ -6,7 +6,7 @@ import gdown
 # File paths
 USER_RECS_FILE = 'user_recs.csv'
 RATINGS_FILE = 'Products_ThoiTrangNam_rating_raw.csv'
-SIMILARITY_FILE = '/mnt/data/product_recommendations_1.csv'
+SIMILARITY_FILE = 'product_recommendations_1.csv'
 BANNER_PATH = 'banner.png'
 PLACEHOLDER_IMG = 'logo.jpg'
 
