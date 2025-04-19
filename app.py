@@ -49,7 +49,7 @@ st.sidebar.markdown("""
 **👨‍💻 By**: Pham Huu Tuan Trung & Tran Nhat Phung  
 **📚 Course**: Data Science & Machine Learning @ HCMUS  
 **🔍 Purpose**: Explore personalized product recommendations with:
-- 🧠 Gensim content-based similarity
+- 🧠 Cosine content-based similarity
 - 🤝 ALS collaborative filtering
 """)
 
